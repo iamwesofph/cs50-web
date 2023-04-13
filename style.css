@@ -1,0 +1,25 @@
+#rcorners2 {
+    border-radius: 25px;
+    border: 2px solid;
+    padding: 5px; 
+    width: 500px;
+    height: 30px;
+    margin: auto;
+  }
+
+h1 {
+  color:#d93025;
+}
+
+div {
+  display: block;
+}
+
+body {
+  font-family: arial,sans-serif;
+}
+
+.divclass1 {
+  width: 100%;
+  clear: both;
+}
